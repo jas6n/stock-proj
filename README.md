@@ -1,1 +1,1 @@
-# stock-proj
+# Stock reader project
