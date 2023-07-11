@@ -1,0 +1,2 @@
+# Stock reader project
+hi
